@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
+# Why these?
+# - pandas → For handling datasets
+# - numpy → For numeric operations
+# - matplotlib + seaborn → For pretty visualizations
+# - scikit-learn → For the Decision Tree implementation
+# - jupyter → To run your .ipynb notebook
